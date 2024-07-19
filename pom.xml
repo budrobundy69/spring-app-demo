@@ -22,7 +22,7 @@
     </developers>
     <scm>
         <connection>
-            scm:git:git://github.com/spring-projects/spring-demo-app.git
+            scm:git:git:git@github.com:budrobundy69/spring-app-demo.git
         </connection>
         <developerConnection/>
         <tag/>

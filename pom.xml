@@ -21,7 +21,9 @@
         <developer/>
     </developers>
     <scm>
-        <connection/>
+        <connection>
+            scm:git:git://github.com/spring-projects/spring-demo-app.git
+        </connection>
         <developerConnection/>
         <tag/>
         <url/>
